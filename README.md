@@ -2,7 +2,7 @@
 
 
 ## 📃 Intro
-This is a number conversion app, which convert one number system to another
+🎯 Goal: This is a number conversion app, which convert one number system to another
 
 
 ## ‼ Dependencies
@@ -35,5 +35,3 @@ ____
 ➡️ Role of MODEL in Number Conversion
 
 ❗ Important Libraries and Modules: Tkinter
-
-🎯 Primary Goal: ----------------.
